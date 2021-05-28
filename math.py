@@ -1,6 +1,6 @@
 #add impln
 def add(x,y):
-    pass
+    return x+y #master
 #sub impln
 def sub(x,y):
     pass
