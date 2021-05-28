@@ -3,4 +3,4 @@ def add(x,y):
     return x+y #master
 #sub impln
 def sub(x,y):
-    pass
+    return x-y #by Bug 123
