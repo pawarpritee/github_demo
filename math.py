@@ -4,3 +4,5 @@ def add(x,y):
 #sub impln
 def sub(x,y):
     return x-y #by Bug 123
+def mul(x,y):
+    pass
